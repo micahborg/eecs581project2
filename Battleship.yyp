@@ -35,7 +35,12 @@
   "name":"Battleship",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"Sprite_1x1_Ship","path":"sprites/Sprite_1x1_Ship/Sprite_1x1_Ship.yy",},},
+    {"id":{"name":"Sprite_1x2_Ship","path":"sprites/Sprite_1x2_Ship/Sprite_1x2_Ship.yy",},},
+    {"id":{"name":"Sprite_1x3_Ship","path":"sprites/Sprite_1x3_Ship/Sprite_1x3_Ship.yy",},},
+    {"id":{"name":"Sprite_1x4_ships","path":"sprites/Sprite_1x4_ships/Sprite_1x4_ships.yy",},},
+    {"id":{"name":"Sprite_1x5_Ships","path":"sprites/Sprite_1x5_Ships/Sprite_1x5_Ships.yy",},},
+    {"id":{"name":"Sprite_Water","path":"sprites/Sprite_Water/Sprite_Water.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
