@@ -8,8 +8,8 @@
   "name":"PlayerTile05A",
   "overriddenProperties":[],
   "parent":{
-    "name":"Player Board Tiles",
-    "path":"folders/Objects/Player Board Tiles.yy",
+    "name":"Collumn 05",
+    "path":"folders/Objects/Player Board Tiles/Collumn 05.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Marker_Empty",
-    "path":"sprites/Marker_Empty/Marker_Empty.yy",
+    "name":"Sprite_Marker_Empty",
+    "path":"sprites/Sprite_Marker_Empty/Sprite_Marker_Empty.yy",
   },
   "spriteMaskId":null,
   "visible":true,

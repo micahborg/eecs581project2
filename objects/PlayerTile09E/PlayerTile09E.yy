@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Ship_Single",
-    "path":"sprites/Ship_Single/Ship_Single.yy",
+    "name":"Sprite_Ship_Single",
+    "path":"sprites/Sprite_Ship_Single/Sprite_Ship_Single.yy",
   },
   "spriteMaskId":null,
   "visible":true,

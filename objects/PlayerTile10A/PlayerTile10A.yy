@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Ship_Right",
-    "path":"sprites/Ship_Right/Ship_Right.yy",
+    "name":"Sprite_Ship_Right",
+    "path":"sprites/Sprite_Ship_Right/Sprite_Ship_Right.yy",
   },
   "spriteMaskId":null,
   "visible":true,

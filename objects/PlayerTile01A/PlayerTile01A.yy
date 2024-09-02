@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Marker_Empty",
-    "path":"sprites/Marker_Empty/Marker_Empty.yy",
+    "name":"Sprite_Flame",
+    "path":"sprites/Sprite_Flame/Sprite_Flame.yy",
   },
   "spriteMaskId":null,
   "visible":true,

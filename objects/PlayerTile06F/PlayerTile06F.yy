@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Ship_Middle",
-    "path":"sprites/Ship_Middle/Ship_Middle.yy",
+    "name":"Sprite_Ship_Middle",
+    "path":"sprites/Sprite_Ship_Middle/Sprite_Ship_Middle.yy",
   },
   "spriteMaskId":null,
   "visible":true,

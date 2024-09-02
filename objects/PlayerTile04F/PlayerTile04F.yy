@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Ship_Left",
-    "path":"sprites/Ship_Left/Ship_Left.yy",
+    "name":"Sprite_Ship_Left",
+    "path":"sprites/Sprite_Ship_Left/Sprite_Ship_Left.yy",
   },
   "spriteMaskId":null,
   "visible":true,
