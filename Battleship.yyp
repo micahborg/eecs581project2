@@ -152,6 +152,7 @@
     {"id":{"name":"Ship_Middle","path":"sprites/Ship_Middle/Ship_Middle.yy",},},
     {"id":{"name":"Ship_Right","path":"sprites/Ship_Right/Ship_Right.yy",},},
     {"id":{"name":"Ship_Single","path":"sprites/Ship_Single/Ship_Single.yy",},},
+    {"id":{"name":"Sprite_BattleShipTitle","path":"sprites/Sprite_BattleShipTitle/Sprite_BattleShipTitle.yy",},},
     {"id":{"name":"Sprite_Water","path":"sprites/Sprite_Water/Sprite_Water.yy",},},
   ],
   "resourceType":"GMProject",

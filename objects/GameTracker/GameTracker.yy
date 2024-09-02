@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sprite_BattleShipTitle",
+    "path":"sprites/Sprite_BattleShipTitle/Sprite_BattleShipTitle.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
