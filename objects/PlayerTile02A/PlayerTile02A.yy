@@ -8,8 +8,8 @@
   "name":"PlayerTile02A",
   "overriddenProperties":[],
   "parent":{
-    "name":"Collumn 02",
-    "path":"folders/Objects/Player Board Tiles/Collumn 02.yy",
+    "name":"Column 02",
+    "path":"folders/Objects/Player Board Tiles/Column 02.yy",
   },
   "parentObjectId":null,
   "persistent":false,

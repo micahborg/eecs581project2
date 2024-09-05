@@ -9,8 +9,8 @@
   "name":"PlayerTile01A",
   "overriddenProperties":[],
   "parent":{
-    "name":"Collumn 01",
-    "path":"folders/Objects/Player Board Tiles/Collumn 01.yy",
+    "name":"Column 01",
+    "path":"folders/Objects/Player Board Tiles/Column 01.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sprite_Hit_no_ship_showing",
+    "path":"sprites/Sprite_Hit_no_ship_showing/Sprite_Hit_no_ship_showing.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

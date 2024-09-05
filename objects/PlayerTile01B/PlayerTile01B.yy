@@ -9,8 +9,8 @@
   "name":"PlayerTile01B",
   "overriddenProperties":[],
   "parent":{
-    "name":"Collumn 01",
-    "path":"folders/Objects/Player Board Tiles/Collumn 01.yy",
+    "name":"Column 01",
+    "path":"folders/Objects/Player Board Tiles/Column 01.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sprite_Miss",
+    "path":"sprites/Sprite_Miss/Sprite_Miss.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
