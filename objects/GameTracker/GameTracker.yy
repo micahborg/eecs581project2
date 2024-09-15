@@ -31,6 +31,7 @@
     {"$GMObjectProperty":"v1","%Name":"Player1Score","filters":[],"listItems":[],"multiselect":false,"name":"Player1Score","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"Player2Score","filters":[],"listItems":[],"multiselect":false,"name":"Player2Score","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"ScoreGoal","filters":[],"listItems":[],"multiselect":false,"name":"ScoreGoal","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
+    {"$GMObjectProperty":"v1","%Name":"ShipsNumber","filters":[],"listItems":[],"multiselect":false,"name":"ShipsNumber","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"1","varType":1,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
