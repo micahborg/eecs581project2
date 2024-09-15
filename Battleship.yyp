@@ -58,6 +58,7 @@
   "resources":[
     {"id":{"name":"Font_Battleship","path":"fonts/Font_Battleship/Font_Battleship.yy",},},
     {"id":{"name":"Font_Title","path":"fonts/Font_Title/Font_Title.yy",},},
+    {"id":{"name":"controller","path":"objects/controller/controller.yy",},},
     {"id":{"name":"EnemyTile01A","path":"objects/EnemyTile01A/EnemyTile01A.yy",},},
     {"id":{"name":"EnemyTile01B","path":"objects/EnemyTile01B/EnemyTile01B.yy",},},
     {"id":{"name":"EnemyTile01C","path":"objects/EnemyTile01C/EnemyTile01C.yy",},},
