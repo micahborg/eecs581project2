@@ -52,7 +52,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.2.162",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"Battleship",
   "resources":[
@@ -159,6 +159,11 @@
     {"id":{"name":"EnemyTile10J","path":"objects/EnemyTile10J/EnemyTile10J.yy",},},
     {"id":{"name":"GameTitle","path":"objects/GameTitle/GameTitle.yy",},},
     {"id":{"name":"GameTracker","path":"objects/GameTracker/GameTracker.yy",},},
+    {"id":{"name":"obj_button_back","path":"objects/obj_button_back/obj_button_back.yy",},},
+    {"id":{"name":"obj_button_help","path":"objects/obj_button_help/obj_button_help.yy",},},
+    {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},
+    {"id":{"name":"obj_button_play","path":"objects/obj_button_play/obj_button_play.yy",},},
+    {"id":{"name":"obj_button_quit","path":"objects/obj_button_quit/obj_button_quit.yy",},},
     {"id":{"name":"PlayerTile01A","path":"objects/PlayerTile01A/PlayerTile01A.yy",},},
     {"id":{"name":"PlayerTile01B","path":"objects/PlayerTile01B/PlayerTile01B.yy",},},
     {"id":{"name":"PlayerTile01C","path":"objects/PlayerTile01C/PlayerTile01C.yy",},},
@@ -262,6 +267,8 @@
     {"id":{"name":"TurnCardPlayerOne","path":"objects/TurnCardPlayerOne/TurnCardPlayerOne.yy",},},
     {"id":{"name":"TurnCardPlayerTwo","path":"objects/TurnCardPlayerTwo/TurnCardPlayerTwo.yy",},},
     {"id":{"name":"BattleRoom","path":"rooms/BattleRoom/BattleRoom.yy",},},
+    {"id":{"name":"Help","path":"rooms/Help/Help.yy",},},
+    {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"_Sprite_BattleShipTitle","path":"sprites/_Sprite_BattleShipTitle/_Sprite_BattleShipTitle.yy",},},
     {"id":{"name":"_Sprite_Player1","path":"sprites/_Sprite_Player1/_Sprite_Player1.yy",},},
     {"id":{"name":"_Sprite_Player2","path":"sprites/_Sprite_Player2/_Sprite_Player2.yy",},},
@@ -281,7 +288,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"BattleRoom","path":"rooms/BattleRoom/BattleRoom.yy",},},
+    {"roomId":{"name":"Help","path":"rooms/Help/Help.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
