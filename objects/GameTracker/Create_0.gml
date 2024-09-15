@@ -1,8 +1,5 @@
 /// @description Set Tiles and Variables
 var TileSizer = 64;
-var Player1Score = 0;
-var Player2Score = 0;
-var TurnPhase = 1;
 
 #region //Create Player Grid
 //Collumn 1
