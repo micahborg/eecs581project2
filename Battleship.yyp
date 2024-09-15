@@ -167,6 +167,7 @@
     {"id":{"name":"obj_button_play_again","path":"objects/obj_button_play_again/obj_button_play_again.yy",},},
     {"id":{"name":"obj_button_play","path":"objects/obj_button_play/obj_button_play.yy",},},
     {"id":{"name":"obj_button_quit","path":"objects/obj_button_quit/obj_button_quit.yy",},},
+    {"id":{"name":"Object_PlayerTile","path":"objects/Object_PlayerTile/Object_PlayerTile.yy",},},
     {"id":{"name":"PlayerTile01A","path":"objects/PlayerTile01A/PlayerTile01A.yy",},},
     {"id":{"name":"PlayerTile01B","path":"objects/PlayerTile01B/PlayerTile01B.yy",},},
     {"id":{"name":"PlayerTile01C","path":"objects/PlayerTile01C/PlayerTile01C.yy",},},
