@@ -20,6 +20,7 @@
   "HTile":true,
   "layers":[
     {"$GMImageLayer":"","%Name":"509f5799-b500-4540-9c0c-3d0eb729a6a3","blendMode":0,"displayName":"default","isLocked":false,"name":"509f5799-b500-4540-9c0c-3d0eb729a6a3","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"16ef557b-6aad-4b2f-a024-a4df40bf2e19","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"16ef557b-6aad-4b2f-a024-a4df40bf2e19","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Sprite_Ship_Middle_Hit",
   "nineSlice":null,
