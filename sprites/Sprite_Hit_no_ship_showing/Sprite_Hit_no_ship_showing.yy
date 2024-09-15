@@ -20,6 +20,7 @@
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"555b0063-d407-490f-934d-41d02072543d","blendMode":0,"displayName":"default","isLocked":false,"name":"555b0063-d407-490f-934d-41d02072543d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"3557b19a-0466-4096-8e21-a7e57bbe8086","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"3557b19a-0466-4096-8e21-a7e57bbe8086","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Sprite_Hit_no_ship_showing",
   "nineSlice":null,

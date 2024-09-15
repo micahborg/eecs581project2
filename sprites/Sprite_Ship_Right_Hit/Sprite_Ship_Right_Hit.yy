@@ -20,6 +20,7 @@
   "HTile":true,
   "layers":[
     {"$GMImageLayer":"","%Name":"476dd569-daf8-41c8-9049-7f5a819ae29a","blendMode":0,"displayName":"default","isLocked":false,"name":"476dd569-daf8-41c8-9049-7f5a819ae29a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"1a5e4df1-6d10-46fc-aa7d-3242fff3bf5e","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"1a5e4df1-6d10-46fc-aa7d-3242fff3bf5e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Sprite_Ship_Right_Hit",
   "nineSlice":null,

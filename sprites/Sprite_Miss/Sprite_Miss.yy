@@ -20,6 +20,7 @@
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"f543c110-2cb2-479b-b4fa-f92e756920e0","blendMode":0,"displayName":"default","isLocked":false,"name":"f543c110-2cb2-479b-b4fa-f92e756920e0","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"6bfb6907-1cc7-4332-8ddf-5d139c932d2d","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"6bfb6907-1cc7-4332-8ddf-5d139c932d2d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Sprite_Miss",
   "nineSlice":null,
