@@ -3,34 +3,64 @@
 #region Game Phases:
 
 #region // player 2's turn (Incomplete)
-if(GameTracker.PlayerPhase == 2)	// check if it is player 2's turn
+if(PlayerPhase == 2)	// check if it is player 2's turn
 {
 
 }
 #endregion
 
 #region // Player 1's turn (Incomplete)
-else if (GameTracker.PlayerPhase == 1) // check if it is player 1's turn
+else if (PlayerPhase == 1) // check if it is player 1's turn
 {
 	
 }	
 #endregion
 
 #region // Player 1's Place Ships screen (needs completion)
-
+else if (PlayerPhase == 3) // check if it is player 1's turn
+{
+	
+}	
 #endregion
 
 #region // Player 2's Place Ships Screen (needs completion)
-
+else if (PlayerPhase == 4) // check if it is player 1's turn
+{
+	
+}	
 #endregion
 
 #region // Choose Game Size Screen (needs completion)
-
+else if (PlayerPhase == 5) // check if it is player 1's turn
+{
+	
+}	
 #endregion
 
 #region // pause menu (needs Completion)
+else if (PlayerPhase == 6) // check if it is player 1's turn
+{
+	
+}	
+#endregion
+
+#region // Player 1 Phase Card
+
+else if (PlayerPhase == 7) // check if it is player 1's turn
+{
+	
+}	
 
 #endregion
+
+#region // Player 2 Phase Card
+
+else if (PlayerPhase == 8) // check if it is player 1's turn
+{
+	
+}	
+#endregion
+
 
 #endregion
 

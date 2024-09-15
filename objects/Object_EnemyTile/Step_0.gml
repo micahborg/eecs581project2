@@ -111,14 +111,10 @@ else if (GameTracker.PlayerPhase == 2) // check if it is player 2's turn
 
 #endregion
 
-#region // Choose Game Size Screen (Completed)
-
-sprite_index = Sprite_Marker_Empty; // set all tiles to empty when choosing game size
-
-#endregion
-
-#region // pause menu (Completed)
-
-sprite_index = Sprite_Marker_Empty; // set all tiles to empty when paused
+#region // all other phases (Choose Game Size, Pause Menu?, Phase Cards for player turns)
+else 
+{
+sprite_index = Sprite_Marker_Empty; // set all tiles to empty for all other phases
+}
 
 #endregion
