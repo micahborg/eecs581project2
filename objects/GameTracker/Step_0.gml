@@ -1,4 +1,38 @@
 /// @description highlighting tiles (currently)
+/// @description: Location/Sprite Control
+#region Game Phases:
+
+#region // player 2's turn (Incomplete)
+if(GameTracker.PlayerPhase == 2)	// check if it is player 2's turn
+{
+
+}
+#endregion
+
+#region // Player 1's turn (Incomplete)
+else if (GameTracker.PlayerPhase == 1) // check if it is player 1's turn
+{
+	
+}	
+#endregion
+
+#region // Player 1's Place Ships screen (needs completion)
+
+#endregion
+
+#region // Player 2's Place Ships Screen (needs completion)
+
+#endregion
+
+#region // Choose Game Size Screen (needs completion)
+
+#endregion
+
+#region // pause menu (needs Completion)
+
+#endregion
+
+#endregion
 
 #region // Tile highlighting
 // Variables to store the currently hovered tiles

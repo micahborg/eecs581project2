@@ -1,6 +1,6 @@
 /// @description: Location/Sprite Control
 
-#region // player 1's turn
+#region // player 1's turn (Completed)
 if(GameTracker.PlayerPhase == 1)	// check if it is player 1's turn
 {
 	if(occupied == false)	// if there are no ships on the tile
@@ -42,7 +42,8 @@ if(GameTracker.PlayerPhase == 1)	// check if it is player 1's turn
 	}
 }
 #endregion
-#region // Player 2's turn
+
+#region // Player 2's turn (Completed)
 else if (GameTracker.PlayerPhase == 2) // check if it is player 2's turn
 {
 	if (occupied == 0)
@@ -100,4 +101,24 @@ else if (GameTracker.PlayerPhase == 2) // check if it is player 2's turn
 		}
 	}
 }	
+#endregion
+
+#region // Player 1's Place Ships screen (needs completion)
+
+#endregion
+
+#region // Player 2's Place Ships Screen (needs completion)
+
+#endregion
+
+#region // Choose Game Size Screen (Completed)
+
+sprite_index = Sprite_Marker_Empty; // set all tiles to empty when choosing game size
+
+#endregion
+
+#region // pause menu (Completed)
+
+sprite_index = Sprite_Marker_Empty; // set all tiles to empty when paused
+
 #endregion

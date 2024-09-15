@@ -54,6 +54,7 @@
     {"id":{"name":"Lose","path":"rooms/Lose/Lose.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"Win","path":"rooms/Win/Win.yy",},},
+    {"id":{"name":"scr_get_hovered_tile","path":"scripts/scr_get_hovered_tile/scr_get_hovered_tile.yy",},},
     {"id":{"name":"_Sprite_BattleShipTitle","path":"sprites/_Sprite_BattleShipTitle/_Sprite_BattleShipTitle.yy",},},
     {"id":{"name":"_Sprite_Player1","path":"sprites/_Sprite_Player1/_Sprite_Player1.yy",},},
     {"id":{"name":"_Sprite_Player2","path":"sprites/_Sprite_Player2/_Sprite_Player2.yy",},},
