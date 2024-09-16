@@ -176,7 +176,7 @@ if (PlayerPhase == 3) //
 		global.ShipSelected = 0;
 		
 		// change phase
-		GameTracker.PlayerPhase = 8;
+		GameTracker.PlayerPhase = 4;
 	}
 	
 	
@@ -400,7 +400,7 @@ if (PlayerPhase == 4) //
 	if (keyboard_check_pressed(vk_enter))
 	{
 		// change phase
-		GameTracker.PlayerPhase = 7;
+		GameTracker.PlayerPhase = 1;
 		GameTracker.ShipsPlaced = true;
 	}
 	
@@ -476,19 +476,6 @@ if (PlayerPhase == 4) //
 
 #endregion
 
-#region // Choose Game Size Screen (needs completion)
-if (PlayerPhase == 5) // check if it is player 1's turn
-{
-
-}	
-#endregion
-
-#region // pause menu (needs Completion)
-if (PlayerPhase == 6) // check if it is player 1's turn
-{
-	
-}	
-#endregion
 
 #region // Player 1 Phase Card
 
